@@ -1,0 +1,146 @@
+[
+    {
+        "username": "Teshayev Shaxboz",
+        "user_id": "1",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/shaxi007",
+        "specialist": "Backend",
+        "contact": "998914195596"
+    },
+    {
+        "username": "Shamsiddinov Doniyor",
+        "user_id": "2",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/Doniyor27",
+        "specialist": "Backend",
+        "contact": "998977218610"
+    },
+    {
+        "username": "Yusupov Muhammadrizo",
+        "user_id": "3",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/MuhammadrizoDeveloper",
+        "specialist": "Backend",
+        "contact": "998991093854"
+    },
+    {
+        "username": "Ahror Adhamxo'jayev",
+        "user_id": "4",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/Adhamxojayev",
+        "specialist": "Backend",
+        "contact": "998333732328"
+    },
+    {
+        "username": "Abdulqodir Tolipov",
+        "user_id": "5",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/Abdulqodir-Tolipov",
+        "specialist": "Backend",
+        "contact": "998998515138"
+    },
+    {
+        "username": "Shahzod Bahromov",
+        "user_id": "6",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/ShahzodBahromov",
+        "specialist": "Backend",
+        "contact": "998900010290"
+    },
+    {
+        "username": "G'aybulla Fayzullayev",
+        "user_id": "7",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/fayzullayevgaybulla1105",
+        "specialist": "Backend",
+        "contact": "998941710171"
+    },
+    {
+        "username": "Javohir Tursunov",
+        "user_id": "8",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/javokhir580",
+        "specialist": "Backend",
+        "contact": "998997198372"
+    },
+    {
+        "username": "Fayzulloh Shodiyev",
+        "user_id": "9",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/ShodiyevF",
+        "specialist": "Backend",
+        "contact": "998912007435"
+    },
+    {
+        "username": "Kamron Baxtiyorov",
+        "user_id": "10",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/wieeil",
+        "specialist": "Backend",
+        "contact": "998990810412"
+    },
+    {
+        "username": "Ismoil Ozodov",
+        "user_id": "11",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/ismailozodov",
+        "specialist": "Backend",
+        "contact": "998935627912"
+    },
+    {
+        "username": "Abdulaziz Abduazizov",
+        "user_id": "12",
+        "desc": "Node Js Backend",
+        "githubAccount": "https://github.com/ProgrammerDevol",
+        "specialist": "Backend",
+        "contact": "998995309229"
+    },
+    {
+        "username": "Sarvar Rahim",
+        "user_id": "13",
+        "desc": "React Frontend",
+        "githubAccount": "https://github.com/SarvarRahim",
+        "specialist": "Frontend",
+        "contact": "998909113818"
+    },
+    {
+        "username": "Ibrohim Nig'matov",
+        "user_id": "14",
+        "desc": "React Frontend",
+        "githubAccount": "https://github.com/ibrokheem",
+        "specialist": "Frontend",
+        "contact": "998974250775"
+    },
+    {
+        "username": "Fazliddin G'aniyev",
+        "user_id": "15",
+        "desc": "Graphic Designer from Tashkent",
+        "work_done": "https://t.me/portfolioganiev",
+        "specialist": "Grafik dizayn",
+        "contact": "998997906683"
+    },
+    {
+        "username": "Faxriddin Buvatoyev",
+        "user_id": "16",
+        "desc": "Graphic Designer from Tashkent",
+        "work_done": "https://t.me/fakhriddin_portfolio",
+        "specialist": "Grafik dizayn",
+        "contact": "998916811007"
+    },
+    {
+        "username": "Abdulloh Abduxalilov",
+        "user_id": "17",
+        "desc": "Mobile Flutter",
+        "githubAccount": "https://github.com/AbdullohAbduxalilov?tab=repositories",
+        "specialist": "Flutter",
+        "contact": "998977374483"
+    },
+    {
+        "username": "Asadbek Noyibjonov",
+        "user_id": "18",
+        "desc": "Mobile Flutter",
+        "githubAccount": "https://github.com/asadbekdev/",
+        "specialist": "Flutter",
+        "contact": "998991975842"
+    }
+]
